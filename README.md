@@ -103,3 +103,13 @@ For queries or collaboration:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+##  Cloning 
+
+To get started locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Girishs07/Signal-Miner.git
+
+# Navigate into the project directory
+cd Signal-Miner
