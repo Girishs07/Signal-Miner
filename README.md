@@ -25,7 +25,7 @@ Scraped LinkedIn job postings using:
 
 ### 2. Data Cleaning & Structuring
 Data processed using:
-- `pandas`, `re`, `datetime`, `slugify`
+- `pandas`, `datetime`,
 
 📂 Files:
 - `Final_Cleaned_Datasets.csv`
@@ -70,7 +70,7 @@ Interactive dashboards created using Power BI.
 | Task           | Tools Used                                         |
 |----------------|----------------------------------------------------|
 | Web Scraping   | `requests`, `BeautifulSoup`, `SerpAPI`             |
-| Data Handling  | `pandas`, `re`, `datetime`, `slugify`              |
+| Data Handling  | `pandas`, `re`, `datetime`,                        |
 | Tagging Logic  | Manual mapping, Custom dictionaries                |
 | Visualization  | Power BI, Google Sheets                            |
 | Reporting      | Notion Page                                        |
@@ -80,7 +80,6 @@ Interactive dashboards created using Power BI.
 ## 🧑‍💻 Author
 
 **Name:** Girish S  
-**Register Number:** 713322AD028  
 **Project Duration:** 4–6 Days
 
 ---
